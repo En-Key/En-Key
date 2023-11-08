@@ -6,6 +6,8 @@
 ### About me
 - 🌱 I’m currently learning C++, Web
 
+  ---
+
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="С++" width="40" height="40"/>&nbsp;
